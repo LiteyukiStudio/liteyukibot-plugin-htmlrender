@@ -1,0 +1,2 @@
+# liteyukibot-plugin-htmlrender
+用以将其他依赖nonebot-plugin-htmlrender的插件引导至轻雪内置的页面渲染插件进行页面渲染
